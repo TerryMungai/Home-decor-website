@@ -52,21 +52,6 @@ h3{
 	}
 
 
-h2{
-  color:white;
-  text-align: center;
-  padding-top:-20px;
-  font-size: 18px;
-  font-weight: bolder;
-  margin-bottom:-30px;
-  background-color:#7d2d42;
-  margin-left: -80px;
-  margin-top: -18px;
-  height: 50px;
-  width: 1260px;
-  padding-bottom: px;
-    
- }
 
 .content2{  
 background-color:;
@@ -89,10 +74,11 @@ margin-bottom: -19px
 }
 
 .content1{
-	background-color:#344457;
+	background-color:#7d2d42;
 	text-align: center;
 	height: 50px;
-	padding-top: px;
+	
+
 	margin-top: 30px;
 
 }
@@ -271,7 +257,7 @@ span2{
 	font-weight: lighter; 
 }
 p{
-	color: white;
+	color: black;
 	font-weight: lighter;
 	font-family: sans-serif;
 }
@@ -313,4 +299,10 @@ h4{
 
 .secB .p{
 	font-color:white;
+}
+.content1 h2{
+	background-color: #7d2d42;
+	padding-top: 18px;
+	padding-bottom: 3px;
+	color: white;
 }
